@@ -6,6 +6,7 @@
 
 ;;files to ignore
 settings.py
+PythonSheets/client_secret.json
 
 ;;extensions to ignore
 *.log
